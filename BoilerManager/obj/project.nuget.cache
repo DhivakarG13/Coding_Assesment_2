@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JShqghsTmu4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhivakar.gopi\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
