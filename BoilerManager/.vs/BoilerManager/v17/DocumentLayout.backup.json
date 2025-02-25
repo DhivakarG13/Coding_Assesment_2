@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\boilerdatalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:boilerdatalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\boilermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:boilermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\boilerstatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:boilerstatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\enums\\mainmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\enums\\mainmenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\messagereaderutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\messagereaderutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\validationserviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\validationserviceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\userdatafetchutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\userdatafetchutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\messagewriterutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\messagewriterutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\model\\boilerstatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:model\\boilerstatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\enums\\switchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\enums\\switchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|c:\\users\\dhivakar.gopi\\desktop\\boilermanager\\helpers\\enums\\boilerstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF6ADE-023D-4E8C-972F-A67254036C28}|BoilerManager.csproj|solutionrelative:helpers\\enums\\boilerstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageReaderUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\MessageReaderUtility.cs",
+              "RelativeDocumentMoniker": "Helpers\\MessageReaderUtility.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\MessageReaderUtility.cs",
+              "RelativeToolTip": "Helpers\\MessageReaderUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:21:42.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\Enums\\MainMenuOptions.cs",
+              "RelativeDocumentMoniker": "Helpers\\Enums\\MainMenuOptions.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\Enums\\MainMenuOptions.cs",
+              "RelativeToolTip": "Helpers\\Enums\\MainMenuOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:45:21.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoilerStateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerStateHandler.cs",
+              "RelativeDocumentMoniker": "BoilerStateHandler.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerStateHandler.cs",
+              "RelativeToolTip": "BoilerStateHandler.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:02:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoilerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerManager.cs",
+              "RelativeDocumentMoniker": "BoilerManager.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerManager.cs",
+              "RelativeToolTip": "BoilerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:51:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoilerDataLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerDataLogger.cs",
+              "RelativeDocumentMoniker": "BoilerDataLogger.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\BoilerDataLogger.cs",
+              "RelativeToolTip": "BoilerDataLogger.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:59:00.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationServiceUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\ValidationServiceUtility.cs",
+              "RelativeDocumentMoniker": "Helpers\\ValidationServiceUtility.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\ValidationServiceUtility.cs",
+              "RelativeToolTip": "Helpers\\ValidationServiceUtility.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:23:17.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:25:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDataFetchUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\UserDataFetchUtility.cs",
+              "RelativeDocumentMoniker": "Helpers\\UserDataFetchUtility.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\UserDataFetchUtility.cs",
+              "RelativeToolTip": "Helpers\\UserDataFetchUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:09:13.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageWriterUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\MessageWriterUtility.cs",
+              "RelativeDocumentMoniker": "Helpers\\MessageWriterUtility.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\MessageWriterUtility.cs",
+              "RelativeToolTip": "Helpers\\MessageWriterUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:42:00.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoilerStateData.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Model\\BoilerStateData.cs",
+              "RelativeDocumentMoniker": "Model\\BoilerStateData.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Model\\BoilerStateData.cs",
+              "RelativeToolTip": "Model\\BoilerStateData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:38:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwitchState.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\Enums\\SwitchState.cs",
+              "RelativeDocumentMoniker": "Helpers\\Enums\\SwitchState.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\Enums\\SwitchState.cs",
+              "RelativeToolTip": "Helpers\\Enums\\SwitchState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:36:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoilerStates.cs",
+              "DocumentMoniker": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\Enums\\BoilerStates.cs",
+              "RelativeDocumentMoniker": "Helpers\\Enums\\BoilerStates.cs",
+              "ToolTip": "C:\\Users\\Dhivakar.gopi\\Desktop\\BoilerManager\\Helpers\\Enums\\BoilerStates.cs",
+              "RelativeToolTip": "Helpers\\Enums\\BoilerStates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:10:48.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
