@@ -67,7 +67,8 @@ namespace BoilerManager
 
         public void Stop()
         {
-            throw new NotImplementedException();
+            _boiler.InterLockSwitchState = SwitchState.Open;
+            _boiler.BoilerState = BoilerStates.Lockout;
         }
 
         public void PrintLog()
