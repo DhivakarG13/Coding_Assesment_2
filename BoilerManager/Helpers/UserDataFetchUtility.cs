@@ -14,8 +14,8 @@ namespace BoilerManager.Helpers
             bool IsValidChoice = false;
             while (!IsValidChoice)
             {
-                Console.Write("Enter Your Choice:");
-                Choice = MessageReaderUtility.GetInput();
+                Console.Write("\nEnter Your Choice: ");
+                Choice = MessageUtility.GetInput();
                 IsValidChoice = ValidationServiceUtility.ValidateChoice(Choice, TotalProducts);
                 Console.WriteLine();
             }

@@ -6,14 +6,14 @@
         {
             if (Choice == null)
             {
-                MessageWriterUtility.PrintWarning("Choose a choice to continue");
+                MessageUtility.PrintWarning("Choose a choice to continue");
                 return false;
             }
             bool IsValidChoice = false;
             IsValidChoice = int.TryParse(Choice, out int ParsedChoice);
             if (!IsValidChoice)
             {
-                MessageWriterUtility.PrintWarning("Invalid Number");
+                MessageUtility.PrintWarning("Invalid Number");
                 return false;
             }
             if (ParsedChoice > 0 && ParsedChoice <= TotalChoices)
@@ -22,7 +22,7 @@
             }
             else
             {
-                MessageWriterUtility.PrintWarning("Choice out of range");
+                MessageUtility.PrintWarning("Choice out of range");
                 return false;
             }
 

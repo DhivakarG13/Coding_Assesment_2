@@ -2,9 +2,9 @@
 {
     public enum MainMenuOptions
     {
-        Start_Boiler=1,
+        Toggle_Switch=1,
+        Start_Boiler,
         Stop_Boiler,
-        Toggle_Switch,
         Reset_Lockout,
         Simulate_Error,
         View_Event_Log,
