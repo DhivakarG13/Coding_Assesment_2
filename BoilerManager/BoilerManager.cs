@@ -1,5 +1,6 @@
 ﻿using BoilerManager.Helpers;
 using BoilerManager.Helpers.Enums;
+using BoilerManager.Helpers.Exceptions;
 using BoilerManager.Model;
 
 namespace BoilerManager
@@ -17,45 +18,38 @@ namespace BoilerManager
 
         public bool Run(MainMenuOptions userChoice)
         {
-            Console.Clear();
             switch (userChoice)
             {
+                case MainMenuOptions.Toggle_Switch:
+                    boilerStateHandler.ToggleInterLockSwitchState();
+                    return false;
                 case MainMenuOptions.Start_Boiler:
-                    boilerStateHandler.Start();
-                    MessageWriterUtility.ActionCompleteNotifier("Boiler Run SUCCESSFULLY");
+                    boilerStateHandler.StartBoiler();
                     return false;
 
                 case MainMenuOptions.Stop_Boiler:
                     boilerStateHandler.Stop();
-                    MessageWriterUtility.ActionCompleteNotifier("Boiler stop SUCCESSFULLY");
                     return false;
 
                 case MainMenuOptions.Simulate_Error:
                     if(boilerData.BoilerState == BoilerStates.Operational)
                     {
-                        throw new Exception($"Error: [Error Description]. System in Lockout.");
+                    throw new BoilerFailureException("Simulating Error");
                     }
-                    return false;
-
-                case MainMenuOptions.Toggle_Switch:
-                    boilerStateHandler.ToggleInterLockSwitchState();
-                    MessageWriterUtility.ActionCompleteNotifier("Inter Lock Switch Toggled SUCCESSFULLY");
                     return false;
 
                 case MainMenuOptions.Reset_Lockout:
                     boilerStateHandler.ResetBoiler();
-                    MessageWriterUtility.ActionCompleteNotifier("Boiler Reset SUCCESSFULLY");
                     return false;
 
                 case MainMenuOptions.View_Event_Log:
                     boilerStateHandler.PrintLog();
-                    MessageWriterUtility.ActionCompleteNotifier("Available Events Displayed");
+                    MessageUtility.ActionCompleteNotifier("Available Events Displayed");
                     return false;
 
                 case MainMenuOptions.ExitApp:
                     return true;
             }
-            Console.Clear();
             return false;
         }
     }

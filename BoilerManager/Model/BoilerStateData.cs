@@ -2,6 +2,7 @@
 
 namespace BoilerManager.Model
 {
+
     public class BoilerStateData
     {
         public BoilerStates BoilerState { get; set; }
@@ -10,15 +11,12 @@ namespace BoilerManager.Model
 
         public DateTime? StateTime { get; set; }
 
-        public BoilerStateData(BoilerStates boilerState, SwitchState interLockSwitchState)
+
+        public BoilerStateData(BoilerStates boilerState, SwitchState interLockSwitchState, DateTime? stateTime)
         {
             BoilerState = boilerState;
             InterLockSwitchState = interLockSwitchState;
-            StateTime = DateTime.Now;
-        }
-        public override string ToString()
-        {
-            return $"{BoilerState},{InterLockSwitchState},{StateTime}";
+            StateTime = stateTime;
         }
     }
 }
