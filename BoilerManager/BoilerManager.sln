@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerManager", "BoilerManager.csproj", "{0AEF6ADE-023D-4E8C-972F-A67254036C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerManagerTests", "..\BoilerManagerTests\BoilerManagerTests.csproj", "{C8871365-0DA8-42E3-96FE-3B7FAB0F0D7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0AEF6ADE-023D-4E8C-972F-A67254036C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEF6ADE-023D-4E8C-972F-A67254036C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AEF6ADE-023D-4E8C-972F-A67254036C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8871365-0DA8-42E3-96FE-3B7FAB0F0D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8871365-0DA8-42E3-96FE-3B7FAB0F0D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8871365-0DA8-42E3-96FE-3B7FAB0F0D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8871365-0DA8-42E3-96FE-3B7FAB0F0D7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
