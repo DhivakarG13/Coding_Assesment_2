@@ -18,7 +18,7 @@ namespace BoilerManager
             _boilerDataLogger = boilerDataLogger;
         }
 
-        public void Start()
+        public void StartBoiler()
         {
             if (_boiler.InterLockSwitchState == SwitchState.Open)
             {

@@ -24,7 +24,7 @@ namespace BoilerManager
                     boilerStateHandler.ToggleInterLockSwitchState();
                     return false;
                 case MainMenuOptions.Start_Boiler:
-                    boilerStateHandler.Start();
+                    boilerStateHandler.StartBoiler();
                     return false;
 
                 case MainMenuOptions.Stop_Boiler:
