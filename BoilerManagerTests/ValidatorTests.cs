@@ -4,6 +4,7 @@ namespace BoilerManagerTests
 {
     public class ValidatorTests
     {
+        [Theory]
         [InlineData("1",1)]
         [InlineData("1",4)]
         [InlineData("2",4)]
@@ -17,6 +18,7 @@ namespace BoilerManagerTests
             Assert.True(actualResult);
         }
 
+        [Theory]
         [InlineData("", 1)]
         [InlineData("1A", 4)]
         [InlineData("2 2", 4)]
@@ -30,6 +32,7 @@ namespace BoilerManagerTests
             Assert.False(actualResult);
         }
 
+        [Theory]
         [InlineData("5", 1)]
         [InlineData("6", 4)]
         [InlineData("7", 4)]
